@@ -23,7 +23,7 @@ def merge_data(all_file_paths: Path):
 
     for file in file_list:
         
-
+        print(file)
     
 
     return True
